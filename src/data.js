@@ -5,11 +5,11 @@ export const projects = [
   {
     id: 1,
     featured: true,
-    badge: "My Startup",
-    category: "Software Studio · Founder",
+    badge: "Co-Founder · Startup",
+    category: "Software Studio · Co-Founder",
     title: "NoqTech",
     description:
-      "NoqTech is the software studio I'm building — we design, engineer and ship web apps, mobile apps, AI systems, enterprise software and games for businesses that want to innovate and grow. I built the company site end to end as a fast, statically exported Next.js app with a full portfolio, services catalogue and project-brief intake.",
+      "NoqTech is the software studio I co-founded and am building — we design, engineer and ship web apps, mobile apps, AI systems, enterprise software and games for businesses that want to innovate and grow. I built the company site end to end as a fast, statically exported Next.js app with a full portfolio, services catalogue and project-brief intake.",
     facts: [
       { label: "Core disciplines", value: "8" },
       { label: "App installs", value: "1M+" },
